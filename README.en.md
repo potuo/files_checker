@@ -1,5 +1,5 @@
 # Files_ checker
-[ :cn: ](https://gitee.com/potuo/files_checker/blob/master/README.md)
+[ :cn: ](https://github.com/potuo/files_checker/blob/main/README.md)
 #### Introduction
 Verification tool for a set of files and directories
 #### Instructions for use
