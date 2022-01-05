@@ -1,5 +1,5 @@
 # Files_checker
-[ :us: ](https://gitee.com/potuo/files_checker/blob/master/README.en.md)
+[ :us: ](https://github.com/potuo/files_checker/blob/main/README.en.md)
 #### 介绍
 对于一组文件与目录的校验工具
 
