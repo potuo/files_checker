@@ -1,36 +1,10 @@
-# files_checker
-
-#### Description
-对于一组文件与目录的校验工具
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# Files_ checker
+[ :cn: ](https://gitee.com/potuo/files_checker/blob/master/README.md)
+#### Introduction
+Verification tool for a set of files and directories
+#### Instructions for use
+>Create verification file:
+> `python files_ checker. py -m [folder]`
+- -m [folder] 	 Create check files for file and folder columns
+- -c [file1] [file2] 	 Compare the two generated verification files
+After generating a verification file for a directory, you can manually change the name of the verification file. When verification is needed, generate a verification file for this directory again, and then compare the two verification files
